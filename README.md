@@ -1,6 +1,6 @@
 Ok, so, you need to clone this repository by command:
 ```
-git clone
+git clone https://github.com/createshadow/backendless-task.git
 ```
 
 Then you need to install all dependency by command:
