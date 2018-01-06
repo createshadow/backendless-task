@@ -9,3 +9,26 @@
   background-color: gold;
   text-align: center;
 }
+
+.App-navigation {
+  line-height: 100px;
+}
+
+.App-navigation>a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: sienna;
+  font-family: Kinnari;
+  font-size: large;
+}
+
+.App-navigation>a:hover {
+  color: darkturquoise;
+}
+
+.App-content {
+  margin: auto;
+  text-align: center;
+  width: 5%;
+  margin-top: 5%;
+}
